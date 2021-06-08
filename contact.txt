@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css">
+    <title>contact</title>
+</head>
+<style>
+      h1{
+          /* border: 2px solid red; */
+          width: 20px;
+          margin: 12% auto;
+          font-size: 3rem;
+          font-family: cursive;
+      }
+
+    body{
+        background-color:rgb(98, 164, 190);
+    }
+    
+    a img{
+        /* border: 2px solid black; */
+        width: 100px;
+        margin-top: 5%;
+        margin-left: 12%;
+    }
+    .insta img{
+        /* border: 2px solid red; */
+        width: 120px;
+    }
+      
+</style>
+<body>
+    <div class="container">
+        <h1>Socialize</h1>
+        
+        <div class="media">
+            <a href="https://www.linkedin.com/in/sumit-gadhwal-b43375209"><img src="img1/fb (1).png" alt=""></a>
+            <a href="https://www.instagram.com/sumitgadwal7/" class="insta"><img src="img1/insta.png" alt=""></a>
+            <a href="https://github.com/sumit423"><img src="img1/gb.png" alt=""></a>
+            <a href="https://www.linkedin.com/in/sumit-gadhwal-b43375209"><img src="img1/in.png" alt=""></a>
+            <a href="https://twitter.com/GADHWAL13"><img src="img1/tw (1).png" alt=""></a>
+        </div>
+    </div>
+</body>
+</html>

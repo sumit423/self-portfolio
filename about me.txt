@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABOUT</title>
+</head>
+<style>
+    .container {
+        /* border: 2px solid red; */
+        width: 40%;
+        margin-top: 15%;
+        margin-left: 53%;
+    }
+
+    img {
+        /* border: 2px solid red; */
+        width: 40%;
+
+        margin-top: -22%;
+        margin-left: -5%;
+    }
+
+    .bottom {
+        background-color: rgb(41, 39, 39);
+        display: flex;
+        margin-left: -1.2%;
+        margin-right:  -0.55%;
+        color: rgb(201, 177, 147);
+        
+        
+        
+    }
+    .hh1{
+        /* border: 2px solid red; */
+        padding-top: 2%;
+        margin-left:10% ;
+        width: 12%;
+        height: 12%;
+        font-size: 1.3rem;
+        font-weight: bolder;
+
+    }
+    .pp1{
+        /* border: 2px solid red; */
+        margin-top: 8.8%;
+        margin-left: -185px;
+        width: 12%;
+        
+    }
+    .hh2{
+        /* border: 2px solid red; */
+        margin-left: 22%;
+        width: 12%;
+        padding-top: 2%;
+        font-size: 1.3rem;
+        font-weight: bolder;
+        
+        
+        
+    }
+    .pp2{
+        /* border: 2px solid red; */
+        margin-left: 10px;
+        margin-top: 8.8%;
+        margin-left: -185px;
+        width: 12%;
+    
+    }
+    .hh3{
+        /* border: 2px solid red; */
+        margin-left: 20%;
+        width: 20%;
+        padding-top: 2%;
+        font-size: 1.3rem;
+        font-weight: bolder;
+        
+    }
+    .pp3{
+        /* border: 2px solid red; */
+        margin-left: 10px;
+        margin-top: 8.8%;
+        margin-left: -290px;
+        width: 12%;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <H2>ABOUT ME</H2>
+        <p>
+            Hello! i'm sumit gadhwal right now study in malaviya national insttiute of technology, jaipur in 2nd year
+            under electrical
+            engineering but my interst in coding after join the university . right now my strong point is web developer
+            and web designer
+
+        </p>
+        <p>
+            if want to see my resume then click on download and if sastifyed then give any work or contract related to
+            web development .
+        </p>
+        <a href="https://drive.google.com/file/d/1a5S3EEd1Vx1YGO7RHh5Uu9yNou2r1692/view?usp=sharing"
+            target="_blank"><button>download Resume</button></a>
+    </div>
+    <img src="img1/immi2.jpg" alt="">
+    <div class="bottom">
+        <h3 class="hh1">WEB DEVELOPER</h3>
+        <p class="pp1">development the crivative sites using HTML from &nbsp; &nbsp; &nbsp;&nbsp;sowftware VS code</p>
+        <h3 class="hh2">WEB DESIGNER</h3>
+        <p class="pp2">design the crivative sites using CSS, BOOTSTRAP from  sowftware VS code</p>
+        <h3 class="hh3">WORD-PRESS DEVELOPER</h3>
+        <p class="pp3">development and design the crivative sites using plugin &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; and php database </p>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>projects</title>
+</head>
+<style>
+    body{
+        background-color: darkgray;
+    }
+    .pro{
+        width: 25%;
+        margin: auto;
+    }
+    #food{
+        /* border: 2px solid red; */
+        width:40%;
+        margin-left: 5%;
+        margin-top: 5%;
+
+    }
+    .fo{
+        font-size: 1.2rem;
+    }
+    .foo{
+        border: 2px solid wheat;
+        border-radius: 10px;
+        background-color: wheat;
+    }
+    span{
+          font-size: 2.0rem;
+    }
+    .pp1{
+        height: 200px;
+        margin-left: 110%;
+        margin-top: -65%;
+    }
+    #gym{
+        /* border:  2px solid red; */
+        width: 40%;
+        margin-left: 55%;
+        margin-top: 3%;
+        
+    }
+    .gyy{
+        border: 2px solid wheat;
+        border-radius: 10px;
+        background-color: wheat;
+    }
+    .pp2{
+        height: 250px;
+        margin-left: -120%;
+        margin-top: -30%;
+    }
+    #skin{
+        /* border: 2px solid red; */
+        width:40%;
+        margin-left: 5%;
+        margin-top: 5%;
+
+    }
+    .sk{
+        font-size: 1.2rem;
+    }
+    .skk{
+        border: 2px solid wheat;
+        border-radius: 10px;
+        background-color: wheat;
+    }
+    span{
+          font-size: 2.0rem;
+    }
+    .pp3{
+        height: 250px;
+        margin-left: 120%;
+        margin-top: -55%;
+    }
+    
+</style>
+<body>
+    <div class="projects">
+        <h1 class="pro">MY PROJECTS</h1>
+        <div id="food">
+            <h2 class="fo">
+                <a href="#">myonlinemeal.com</a> 
+                
+            </h2>
+            <p class="foo">
+                <span>"</span> this project is a food site which is delivered the food food from nearby restrunts and hotel as your wish
+                and the site templetes are develop and design by my self and its my first site which is writtern in HTML , CSS, JS, the 
+                backend part is writtern in nodejs <span>"</span> 
+            </p>
+            <img src="img1/pp1.png"  class="pp1" alt="">
+        </div>
+        <div id="gym">
+            <h2 class="gy">
+                <a href="#">sumit fitness classes</a> 
+                
+            </h2>
+            <p class="gyy">
+                <span>"</span> this project is a gym which is estiblish in jhunjhunu ,rajasthan.  
+                the site templetes are develop and design by my self for pratice which is writtern in HTML , CSS, JS in software visual 
+                studio code.
+                <span>"</span> 
+            </p>
+             <img src="img1/pp2.png"  class="pp2" alt="">
+        </div>
+        <div id="skin">
+            <h2 class="sk">
+                <a href="#">HUMAN SKIN TONE </a> 
+                
+            </h2>
+            <p class="skk">
+                <span>"</span> this project is a human skin tone capture site which is suggest you that  your face is in which category . this is a team project i'm done the all of fronend part   which is writtern in HTML , CSS, JS, the 
+                backend part is writtern in DJANGO <span>"</span> 
+            </p>
+            <img src="img1/pp3.jpeg"  class="pp3" alt="">
+        </div> 
+
+    </div>
+</body>
+</html>
